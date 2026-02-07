@@ -18,6 +18,8 @@ References
 .. [Masterson1979] Masterton JM, Richardson FA. Humidex, a method of quantifying human discomfort due to excessive heat and humidity. Downsview, Ontario: CLI 1-79, Environment Canada, Atmospheric Environment Service, 1979
 .. [Havenith2016] Havenith, G., Fiala, D., 2016. Thermal indices and thermophysiological modeling for heat stress. Compr. Physiol. 6, 255–302. DOI: doi.org/10.1002/cphy.c140051
 .. [Blazejczyk2012] Blazejczyk, K., Epstein, Y., Jendritzky, G., Staiger, H., Tinz, B., 2012. Comparison of UTCI to selected thermal indices. Int. J. Biometeorol. 56, 515–535. DOI: doi.org/10.1007/s00484-011-0453-2
+.. [Oke1987] Oke, T.R. (1987). Boundary Layer Climates (2nd ed.). Routledge. DOI: https://doi.org/10.4324/9780203407219
+.. [Sharples2023] Sharples, W., & Baron-Hay, S. (2023). Generating surface wind grids. Bureau Research Report No. 088. URL: https://www.bom.gov.au/research/publications/researchreports/BRR-088.pdf
 .. [Steadman1984] Steadman RG (1984) A universal scale of apparent temperature. J Appl Meteorol Climatol 23:1674–1687
 .. [ashrae2017] ASHRAE, 2017. 2017 ASHRAE Handbook Fundamentals. Atlanta.
 .. [Hoppe1999] Höppe P. The physiological equivalent temperature - a universal index for the biometeorological assessment of the thermal environment. Int J Biometeorol. 1999 Oct;43(2):71-5. doi: 10.1007/s004840050118. PMID: 10552310.
@@ -39,3 +41,5 @@ References
 .. [Ji2022] Ji L, Laouadi A, Wang L, Lacasse MA. Development of a bioheat model for older people under hot and cold exposures. Building Simulation. 2022;15(10):1815-1829.
 .. [Yan2025] Yan J, Tong Z, Wang Y, Feng S, Su Y, Song Y, Wen Q, Yin C. From measurements to regulations: An actionable approach for sustainable urban cooling via heat-resilient urban planning. Sustainable Cities and Society. 2025;125:106361.
 .. [Schlatter1987] Schlatter TW. Temperature-humidity index. In: Climatology. Encyclopedia of Earth Science. Springer; 1987. DOI: 10.1007/0-387-30749-4_176
+.. [Forbes2025] Forbes C, Coccarelli A, Xu Z, Meade RD, Kenny GP, Binnewies S, Bach AJE. Biophysical versus machine learning models for predicting rectal and skin temperatures in older adults. J Therm Biol. 2025 Feb;128:104078. DOI: 10.1016/j.jtherbio.2025.104078. Epub 2025 Feb 22. PMID: 40010162.
+.. [WMO2024] World Meteorological Organization. (2024). Guide to Meteorological Instruments and Methods of Observation, 2024 Edition. WMO-No. 8. Geneva, Switzerland: World Meteorological Organization. URL: https://library.wmo.int/viewer/68695/download?file=WMO-8-vI-2024_en.pdf&type=pdf&navigator=1
